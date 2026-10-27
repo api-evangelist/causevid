@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CauseVid is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://causevid.com/
+CauseVid provides a platform for nonprofits to create, send, and track personalized video messages that engage donors and tell the story of their cause. Their service enables organizations of any size to produce custom video content easily, integrate with fundraising workflows, and measure impact through analytics, helping donors feel appreciated and increasing donation rates.
+
+**Areas:** Nonprofit · Video · Fundraising · Marketing · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://causevid.com/)
+- [Getting started](https://causevid.com/how-it-works)
+- [Pricing](https://causevid.com/pricing)
+- [Blog](https://causevid.com/blog)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/causevid/](https://apis.io/providers/causevid/).
